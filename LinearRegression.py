@@ -1,10 +1,10 @@
 import numpy as np
 
 class LinearRegression:
-	def __init__():
-		learning_rate = 0.01
-		reg_rate = 0.003
-		max_iter = 500
+	def __init__(self):
+		self.learning_rate = 0.01
+		self.reg_rate = 0.003
+		self.max_iter = 500
 
 	def data_loader():
 		'''including init X and y and theta'''
